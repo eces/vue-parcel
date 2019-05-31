@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/main.sass"],"names":[],"mappings":"AAAA,UACE,UAAA,CACA,wBAAA,CACA,+BAEF,GACE","file":"main.51cee3e6.css","sourceRoot":"..","sourcesContent":["html, body\n  color: #333\n  background-color: #f0f0f0\n  font-family: 'Merriweather', serif\n\nh1 \n  font-size: 2rem\n  "]}
